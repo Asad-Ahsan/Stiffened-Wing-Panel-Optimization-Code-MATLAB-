@@ -29,8 +29,7 @@ Both scripts are modular, well-commented, and ready to customize for your own ma
 
 ## 📸 Code Preview
 
-Preview images of the code and output plots are available in the `/screenshots` folder of this repository.
-
+Preview images of the code and output plots are available in 'Preview Files'
 ---
 
 ## 🛒 Buy the Full MATLAB Code
